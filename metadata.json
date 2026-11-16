@@ -1,0 +1,6 @@
+{
+  "name": "Pinnacle Meet",
+  "description": "Real-time HD video conferencing, screen sharing, digital whiteboard classrooms, cloud recording, and enterprise meeting management platform.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
